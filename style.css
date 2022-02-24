@@ -19,12 +19,10 @@ content{
   border-top: left, 20px; 
  background: solid transparent;
  border-right: 0px 
-  solid @color;
+  solid #E7E7E7;
   border-bottom: 20px 
-  solid @color;
+  solid #E7E7E7;
   position:absolute;
-  top: @top;
-  left: @left;
 }
 border-radius{
   border-top-left-radius:@top-left;
@@ -38,7 +36,7 @@ bubble{
   padding:20px;
   position:absolute;
   color:#FFFFFF;
-  background-color:@color;
+  background-color:#9BC5DE;
   font-family: "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300";
 }
 wrap{
@@ -94,7 +92,7 @@ bubble2{
   top:20px;
 the-arrow2{
   border:130px, -19px;
- background-color: #99C5DE;
+ background-color: #90B3C9;
   }  
   {
     border:(20px,0,20px, 0);
@@ -106,7 +104,7 @@ the-arrow2{
 }
 bubble3{
 border-radius: (30px, 0, 30px, 0);
-  background-color:#90B2CB;
+  background-color:##809BB0;
   height: 150px;
   width:250px;
   top:183px;
@@ -131,6 +129,7 @@ bubble5{(#697A8A, 200px);
   border-radius: (30px , 0 , 30px, 0);
   top:450px;
   left:-280px;
+  background-color: #6B7B8A;
   span.the-arrow5{
  arrow(0, 250px, #697A8A);
     transform:rotate(180deg);
