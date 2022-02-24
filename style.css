@@ -25,10 +25,10 @@ content{
   position:absolute;
 }
 border-radius{
-  border-top-left-radius:@top-left;
-  border-top-right-radius: @top-right;
-  border-bottom-right-radius: @bottom-right;
-  border-bottom-left-radius: @bottom-left;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
 }
 bubble{
   height:150px;
